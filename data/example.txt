@@ -1,0 +1,18 @@
+A fekete lyukak a világegyetem legkülönösebb objektumai közé tartoznak. Egy fekete lyuk olyan téridőbeli régió,
+ahonnan semmilyen információ nem juthat ki, még a fény sem. Ennek oka, hogy a gravitáció annyira erős, hogy
+az eseményhorizonton belül a fény sebessége sem elegendő a szökéshez.
+
+Az általános relativitáselmélet szerint a tömegek meghajlítják a téridőt. Minél nagyobb a tömeg egy adott helyen,
+annál nagyobb a görbület. Egy csillag életének végén, ha elég nagy tömegű, saját gravitációja hatására összeomolhat
+és létrejöhet egy fekete lyuk.
+
+Érdekesség, hogy a fekete lyukak nem csak elnyelnek anyagot, hanem forgásuk és mágneses tereik révén hatalmas energiájú
+anyagkilövelléseket is létrehozhatnak, amelyeket jeteknek hívunk. Ezek a jetek több ezer fényév hosszúak is lehetnek.
+
+A Hawking-sugárzás elmélete szerint a fekete lyukak mégsem teljesen "feketék". A kvantummechanika és a gravitáció
+határterületén kvantumfluktuációk révén részecskék keletkezhetnek az eseményhorizonnál, amely lassú párolgást
+okozhat a fekete lyuk tömegében. Ez rendkívül lassú folyamat, de elméletileg azt jelenti, hogy a fekete lyukak
+nem örök életűek.
+
+A fekete lyukak tanulmányozása segít jobban megérteni a téridő szerkezetét, a gravitáció működését és az univerzum
+legszélsőségesebb körülményeit.

@@ -1,0 +1,6 @@
+#file: requirements.txt
+# Minimális függőségek a legegyszerűbb RAG példához
+# Csak a feltétlenül szükséges csomagokat tartalmazza.
+# Szabadon bőcíthető
+
+openai>=1.0.0
